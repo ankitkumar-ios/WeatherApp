@@ -1,0 +1,14 @@
+//
+//  Development.xcconfig
+//  Weather
+//
+//  Created by BasicFirst on 7/27/19.
+//  Copyright © 2019 Ankit. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+ServerURL = api.darksky.net/forecast/
+Protocol = https
+DarkSkyKey = cd29d96ff4541e8b487b91f023f19c9f
